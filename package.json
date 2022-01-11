@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/corneliacool/cygni/issues"
   },
-  "homepage": "https://github.com/corneliacool/cygni#readme"
+  "homepage": "https://github.com/corneliacool/cygni#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1"
+  }
 }
