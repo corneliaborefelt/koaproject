@@ -1,0 +1,19 @@
+{
+  "name": "cygni",
+  "version": "1.0.0",
+  "description": "Cygni kodtest",
+  "main": "app.js",
+  "scripts": {
+    "test": "npr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corneliacool/cygni.git"
+  },
+  "author": "cornelia borefelt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corneliacool/cygni/issues"
+  },
+  "homepage": "https://github.com/corneliacool/cygni#readme"
+}
